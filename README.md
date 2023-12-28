@@ -32,7 +32,7 @@ Getting Started\
 To run this project locally, follow these steps:
 
 Clone the repository:\
-git clone https://github.com/vivaswanth-kashyap/CS546_group36_final_project.git
+git clone https://github.com/anishsahilsiya/Stevens-Stack-Overflow.git
 
 Navigate to the project directory:\
 CS546_group36_final_project
